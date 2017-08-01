@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>깃허브시작!!!</h1>
-<h1>업뎃되나????</h1>
+
 </body>
 </html>
