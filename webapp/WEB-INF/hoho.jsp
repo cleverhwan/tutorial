@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>hoho</title>
 </head>
 <body>
-    <ul>
-      <li>444444</li>
-      <li>555555</li>
-      <li>666666</li>
-    </ul>
+    
 </body>
 </html>
